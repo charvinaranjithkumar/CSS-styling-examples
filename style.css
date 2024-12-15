@@ -1,0 +1,5 @@
+table{
+    font-style:oblique;
+    background-color:color-mix(in hsl shorter hue, blue 30%, white 50%);
+    border-radius: 40px;
+}
